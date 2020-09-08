@@ -1,0 +1,104 @@
+/*
+ Localizable.strings
+ iLGL
+ 
+ Created by Sacha Bartholmé on 25/10/2014.
+ Copyright (c) 2014 The iLGL Team. All rights reserved.
+ */
+
+// Advertising
+"hello" = "Bonjour";
+"facebook" = "Likez notre page Facebook pour être tenu au courant des futures mises à jour!\nPS: Ce message apparaîtra tant que vous n'aurez pas liké 😝";
+"rate" = "Laissez-nous une évaluation sur l'App Store si vous aimez cette app!";
+"notification" = "Notification";
+"recruit title" = "TRES IMPORTANT LIRE ❗️";
+"recruit message" = "Bonjour,\nnous avons besoin de gens pour prendre le relai sur l'application. Contrairement à ce que l'on pourrait croire, il ne faut pas beaucoup de compétences pour maintenir l'app. Si vous êtes interessé(e), envoyez-nous un message et nous vous en dirons plus.";
+
+// Surveillance
+"log in" = "S'identifier";
+"nobody absent" = "Pas de prof absent 🙀";
+"error" = "Erreur";
+"LGL ID" = "Identifiant LGL";
+"no ID" = "Vous n'êtes pas identifié";
+"enter ID" = "Entrez votre identifiant LGL. Ce sont normalement les 3 premières lettres de votre nom de famille suivies des 2 premières lettres de votre prénom ainsi que de 3 chiffres.";
+"wrong ID" = "Identifiant LGL incorrect";
+"teacher missing" = "%@%@ est absent à %@";
+"D'" = "";
+"De" = "";
+"no internet" = "Aucune connection";
+"cancel" = "Annuler";
+
+// Restopolis
+"no menu" = "Fermé pour travaux";
+"takeaway" = "A emporter";
+"starter" = "Entrée";
+"maincourse" = "Plat principal";
+"starchyfood" = "Accompagnement";
+"vegetables" = "Légumes";
+"dessert" = "Dessert";
+"information" = "Information";
+"touch menus" = "Touchez les menus si vous ne les connaissez pas";
+
+// Joke
+"daily joke" = "Blague du jour";
+"excellent" = "Excellent 😂";
+"write" = "Ecrire";
+
+// Holidays
+"term" = "Trimestre";
+"year" = "Année";
+"holidays" = "Vacances";
+"schooldays" = "jours d'école";
+"schoolweeks" = "semaines d'école";
+
+"current year" = "Année %d\/%d";
+"all saints" = "Toussaint";
+"christmas" = "Noël";
+"carnival" = "Carnaval";
+"easter" = "Pâques";
+"pentecost" = "Pentecôte";
+"summer" = "Été";
+"labour day" = "Fête du Travail";
+"ascension" = "Ascension";
+"national holiday" = "Fête Nationale";
+
+"years" = "ans";
+"year" = "an";
+"months" = "mois";
+"month" = "mois";
+"weeks" = "semaines";
+"week" = "semaine";
+"d" = "j";
+"day" = "jour";
+"ds" = "j";
+"days" = "jours";
+"hr" = "h";
+"hrs" = "h";
+
+//Latin
+"chap" = "Chap.";
+"chapter" = "Chapitre";
+"latin" = "Latin";
+"terms" = "vocables";
+"download" = "Télécharger";
+"delete" = "supprimer";
+"gaffiot" = "Télécharger gratuitement le dictionnaire de Félix Gaffiot (136,3 Mb). Vous pouvez le supprimer à tout moment en tappant \"supprimer\" en haut dans la barre de recherche.";
+
+//Schedule
+"schedule" = "Emploi du temps";
+"no schedule" = "L'emploi du temps n'est pas disponible pour le moment";
+"you're a teacher" = "Désolé, vous êtes un professeur ;(";
+
+//Button
+"second" = "seconde";
+"seconds" = "secondes";
+"minute" = "minute";
+"minutes" = "minutes";
+"hour" = "heure";
+"hours" = "heures";
+"day" = "jour";
+"days" = "jours";
+"surprise" = "Si vous êtes premier vous recevrez une surprise...";
+
+// Credits
+"fax" = "On ne peut pas appeler un fax.";

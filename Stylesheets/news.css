@@ -1,0 +1,69 @@
+html {
+    
+    -webkit-text-size-adjust: none;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue";
+    
+    word-wrap: break-word;
+    width: 100%;
+}
+
+a {
+    
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+table {
+    
+    width: 100%;
+}
+
+h1 {
+    
+    font-size: 25pt;
+    font-weight: lighter;
+    color: #e64e4d;
+    text-decoration: none;
+}
+
+p,td,div {
+    
+    font-size: 15pt;
+    color: #555555;
+}
+
+img {
+    
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    height: auto;
+    font-size: 15pt;
+    color: #555555;
+}
+
+.area {
+    
+    position: relative;
+}
+
+.bubble {
+    
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    position: absolute;
+    display: table;
+}
+
+.bubble p {
+    
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    
+    font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue";
+    font-size: 30pt;
+    color: #555555;
+}

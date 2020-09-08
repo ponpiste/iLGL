@@ -1,0 +1,24 @@
+.area {
+    
+    position: relative;
+}
+
+.bubble {
+    
+    width: 90%;
+    margin-left: 5%;
+    height: 90%;
+    position: absolute;
+    display: table;
+}
+
+.bubble p {
+    
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    
+    font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue";
+    font-size: 30pt;
+    color: #555555;
+}

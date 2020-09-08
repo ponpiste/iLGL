@@ -1,0 +1,104 @@
+/*
+ Localizable.strings
+ iLGL
+ 
+ Created by Sacha Bartholmé on 25/10/2014.
+ Copyright (c) 2014 The iLGL Team. All rights reserved.
+ */
+
+// Advertising
+"hello" = "Moien";
+"facebook" = "Like eis Facebook Säit fir iwwer zukünftech Update vun der App Bescheed ze wessen!\nPS: Dës Noriicht kënnt erëm an erëm soulaang Dier net geliked hutt 😝";
+"rate" = "Bewärt d'App um App Store wann Dier se gär hutt!";
+"notification" = "Notifikatioun";
+"recruit title" = "GANZ WICHTEG LIESEN ❗️";
+"recruit message" = "Salu,\nmir brauche nei Leit, déi prett wieren, d'App ze iwwerhuelen. Et brauch een wierklech net vill Kompetenzen, fir d'App ze ënnerhalen. Wanns du (Jong oder Meedchen) interesséiert bass, schéck eis eng Email an mir soen dir wéi et weidergeet.";
+
+// Surveillance
+"log in" = "Sech umellen";
+"nobody absent" = "Et fehlt kee Proff 😭";
+"error" = "Fehler";
+"LGL ID" = "LGL ID";
+"no ID" = "Dir sidd net ugemellt";
+"enter ID" = "Gitt ären LGL ID an. Et sinn déi 3 éischt Buschtawe vun ärem Familljennumm, dann déi 2 éischt Buschtawe vun ärem Virnumm an 3 Zifferen.";
+"wrong ID" = "Ären LGL ID ass falsch";
+"teacher missing" = "%@%@ fehlt um %@";
+"D'" = "D'";
+"De" = "De";
+"no internet" = "Keen Internet";
+"cancel" = "Ofbriechen";
+
+// Restopolis
+"no menu" = "Kee Menu fir deen Dag";
+"takeaway" = "Take away";
+"starter" = "Entrée";
+"maincourse" = "Haaptplat";
+"starchyfood" = "Bäilaag";
+"vegetables" = "Geméis";
+"dessert" = "Dessert";
+"information" = "Informatioun";
+"touch menus" = "Dier kënnt d'Menüen upaaken wann Dier se net kennt";
+
+// Joke
+"daily joke" = "Witz vum Dag";
+"excellent" = "Exzellent 😂";
+"write" = "Schreiwen";
+
+// Holidays
+"term" = "Trimester";
+"year" = "Joer";
+"holidays" = "Vakanz";
+"schooldays" = "Schouldeeg";
+"schoolweeks" = "Schoulwochen";
+
+"current year" = "Joer %d\/%d";
+"all saints" = "Allerhellgen";
+"christmas" = "Chrëschtdag";
+"carnival" = "Fuesent";
+"easter" = "Ouschteren";
+"pentecost" = "Pengschten";
+"summer" = "Grouss Vakanz";
+"labour day" = "1. Mee";
+"ascension" = "Christi Himmelfahrt";
+"national holiday" = "Nationalfeierdag";
+
+"years" = "Joer";
+"year" = "Joer";
+"months" = "Méint";
+"month" = "Mount";
+"weeks" = "Wochen";
+"week" = "Woch";
+"d" = " Dag";
+"day" = "Dag";
+"ds" = " Deeg";
+"days" = "Deeg";
+"hr" = " Stonn";
+"hrs" = " Stonnen";
+
+//Latin
+"chap" = "Kap.";
+"chapter" = "Kapitel";
+"latin" = "Latäin";
+"terms" = "Stéck";
+"download" = "Eroflueden";
+"delete" = "läschen";
+"gaffiot" = "Dem Félix Gaffiot säin Dictionnaire eroflueden (136,3 Mb). Dier kënnt en läschen andeems Dier \"läschen\" uewen agitt.";
+
+//Schedule
+"schedule" = "Stonneplang";
+"no schedule" = "Kee Stonneplang fir de Moment";
+"you're a teacher" = "Dier sidd e Proff ;(";
+
+//Button
+"second" = "Sekonn";
+"seconds" = "Sekonnen";
+"minute" = "Minutt";
+"minutes" = "Minutten";
+"hour" = "Stonn";
+"hours" = "Stonnen";
+"day" = "Dag";
+"days" = "Deeg";
+"surprise" = "Dier kritt eng Iwwerraschung wann Dier Éischte sidd...";
+
+// Credits
+"fax" = "Engem Fax kann ee net telefonéieren.";

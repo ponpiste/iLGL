@@ -1,0 +1,104 @@
+/*
+ Localizable.strings
+ iLGL
+ 
+ Created by Sacha Bartholmé on 25/10/2014.
+ Copyright (c) 2014 The iLGL Team. All rights reserved.
+ */
+
+// Advertising
+"hello" = "Hello";
+"facebook" = "Like us on facebook to know about future updates of the app!\nPS: This message will appear again until you've liked 😝";
+"rate" = "Write a review on the App Store if you like the App!";
+"notification" = "Notification";
+"recruit title" = "GANZ WICHTEG LIESEN ❗️";
+"recruit message" = "Salu,\nmir brauche nei Leit, déi prett wieren, d'App ze iwwerhuelen. Et brauch een wierklech net vill Kompetenzen, fir d'App ze ënnerhalen. Wanns du (Jong oder Meedchen) interesséiert bass, schéck eis eng Email an mir soen dir wéi et weidergeet.";
+
+// Surveillance
+"log in" = "Log in";
+"nobody absent" = "Nobody's absent 🙈";
+"error" = "Error";
+"LGL ID" = "LGL ID";
+"no ID" = "You are not identified. Please log in.";
+"enter ID" = "Enter your LGL ID. It consists of the first 3 letters of your last name, followed by the 2 first letters of your first name and 3 digits.";
+"wrong ID" = "Your LGL ID was entered incorrectly";
+"teacher missing" = "%@%@ is missing at %@";
+"D'" = "";
+"De" = "";
+"no internet" = "No internet";
+"cancel" = "Cancel";
+
+// Restopolis
+"no menu" = "No menu that day";
+"starter" = "Starter";
+"maincourse" = "Main course";
+"starchyfood" = "Supplements";
+"vegetables" = "Vegetables";
+"dessert" = "Dessert";
+"takeaway" = "Take away";
+"information" = "Information";
+"touch menus" = "You can touch the menus if you don't know them";
+
+// Joke
+"daily joke" = "Daily joke";
+"excellent" = "Excellent 😂";
+"write" = "Write";
+
+// Holidays
+"term" = "Term";
+"year" = "Year";
+"holidays" = "Holidays";
+"schooldays" = "schooldays";
+"schoolweeks" = "schoolweeks";
+
+"current year" = "Year %d\/%d";
+"all saints" = "All Saints";
+"christmas" = "Christmas";
+"carnival" = "Carnival";
+"easter" = "Easter";
+"pentecost" = "Pentecost";
+"summer" = "Summer";
+"labour day" = "Labour Day";
+"ascension" = "Ascension";
+"national holiday" = "National Holiday";
+
+"years" = "years";
+"year" = "year";
+"months" = "months";
+"month" = "month";
+"weeks" = "weeks";
+"week" = "week";
+"d" = "d";
+"day" = "day";
+"ds" = "d";
+"days" = "days";
+"hr" = "h";
+"hrs" = "h";
+
+//Latin
+"chap" = "Chap.";
+"chapter" = "Chapter";
+"latin" = "Latin";
+"terms" = "terms";
+"download" = "Download";
+"delete" = "delete";
+"gaffiot" = "Download the dictionnary (136.3 Mb). You can remove it by typing \"delete\" above in the searchbar.";
+
+//Schedule
+"schedule" = "Schedule";
+"no schedule" = "Schedule temporarily unavailable";
+"you're a teacher" = "Sorry, but you're a teacher ;(";
+
+//Button
+"second" = "second";
+"seconds" = "seconds";
+"minute" = "minute";
+"minutes" = "minutes";
+"hour" = "hour";
+"hours" = "hours";
+"day" = "day";
+"days" = "days";
+"surprise" = "You'll receive a surpise if you are the best...";
+
+// Credits
+"fax" = "Impossible to call a fax.";

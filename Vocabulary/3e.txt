@@ -1,0 +1,198 @@
+"A"
+aditus, us, m = accès
+administro, as, are, avi, atum = 1. s’occuper de [negotium] 2. diriger, régler
+aequo, as, are, avi, atum = 1. aplanir 2. égaler
+affectus, us, m = 1. état, disposition de l’âme 2. sentiment
+aio (défectif) prés. aio, ais, ait, aiunt impf. aiebam pf. ait = dire, affirmer
+amplius (adv) = 1. davantage 2. plus de
+angustus, a, um  = étroit
+anima, ae, f = souffle, âme
+animadverto, is, ere, -verti, -versum = s’apercevoir de, remarquer
+armatus, i, m = soldat en armes
+armo, as, are, avi, atum = armer
+auctor, oris, m = 1. garant 2. instigateur, conseiller
+
+"B"
+bis = deux fois
+
+"C"
+caecus, a, um = aveugle
+calor, oris, m = chaleur
+campus, i, m = plaine
+Campus Martius  = le Champ de Mars
+celer, celeris, celere = rapide
+celeritas, atis, f = rapidité
+celeriter (adv.) = rapidement
+ceterum  = 1. du reste, d’ailleurs 2. mais
+circiter  = environ, à peu près
+circumsto, as, are, -steti, / = 1. (intr.) se tenir autour, être autour 2. (tr.) entourer
+clam  = en cachette
+comitor, aris, ari, atus sum = accompagner
+commodum, i, n = avantage, profit
+comparo, as, are, avi, atum = 1. préparer [bellum], procurer [vestem] 2. comparer [rem rei, rem cum re]
+condicio, onis, f = 1. condition [humana; pacis] 2. situation
+confido, is, ere, confisus sum (+ dat) = se fier (à), faire confiance (à)
+confirmo, as, are, avi, atum + ACI = 1. renforcer, consolider [pacem] 2. encourager, réconforter [animos militum] 3. affirmer, confirmer (que)
+confiteor, eris, eri, confessus sum = avouer, reconnaître
+conjicio, is, ere, -jeci, jectum = jeter (ensemble ou vivement)
+conjuro, as, are, avi, atum = conspirer, former un complot
+conscendo, is, ere, -scendi, -scensum = monter
+consido, is, ere, consedi, consessum = 1. s’asseoir 2. se fixer, s’installer, s’établir
+contio, onis, f = 1. assemblée du peuple ou des soldats 2. harangue, discours
+conviva, ae, m = convive
+cremo, as, are, avi, atum = brûler
+crimen, inis, n = accusation
+in crimen vocare = mettre en accusation, accuser
+
+"D"
+deditio, onis, f = reddition, capitulation
+in deditionem accipere aliquem = recevoir la capitulation de
+desiderium, ii, n = regret, désir (de ce qu’on a eu et qui fait défaut)
+desino, is, ere, desii, desitum (+ inf) = cesser (de)
+dolus, i, m = ruse
+
+"E"
+ebrius, a, um = ivre
+equitatus, us, m = cavalerie
+erigo, is, ere, erexi, erectum = 1. mettre droit 2. ériger [turres], lever [oculos], élever
+eripio, is, ere, eripui, ereptum = arracher [rem e manibus]
+eruptio, onis, f = sortie, éruption
+(e)vito, as, are, avi, atum = éviter, fuir
+ex(s)ilium, ii, n = exil
+ex(s)ul, is, m/f = exilé
+
+"F"
+fallo, is, ere, fefelli, falsum = induire en erreur, tromper
+fallere fidem  = manquer à la parole donnée
+ferio, is, ire, /, / = frapper
+finitimus, a, um = voisin
+flamma, ae, f  = flamme
+floreo, es, ere, -ui, / = fleurir, être florissant
+fossa, ae, f = fossé
+
+"G"
+gigno , is, ere, genui, genitum = 1. engendrer (zeugen) [Jupiter Herculem genuit] 2. mettre au monde [Hecuba Alexandrum genuit] 3. produire, causer, faire naître [maxima libertas tyrannum gignit]
+
+"I"
+ideo = c’est pourquoi, pour cette raison
+impedimentum, i, n = empêchement, obstacle
+impedimenta, orum, n pl = bagages
+impono, is, ere, imposui, impositum 1. in +ACC ou ABL 2. DAT = 1. placer dans, sur [milites in nave(m)] 2. imposer à [leges civitati per vim]
+incertus, a, um = 1. non fixé [dies] 2. peu sûr [condicio] 3. incertain [spes]
+índoles, is, f = qualités naturelles, naturel, caractère
+initium, ii, n = commencement
+interea, interim = entre temps, pendant ce temps
+invitus, a, um = malgré (moi, toi, lui, elle…), “ne le voulant pas” , contre mon (ton, son...) gré
+Amicum invitus dimisi.  = J’ai congédié mon ami malgré moi.
+Amicum invitus dimisisti. = Tu as congédié ton ami malgré toi.
+Viatores invitos consistere cogunt. = Ils forcent les voyageurs à s’arrêter malgré eux.
+Hoc, me invito, accidit. (abl. absolu !) = Ceci est arrivé malgré moi.
+
+"J"
+judex, icis, m = juge
+
+"L"
+latro, onis, m = voleur, brigand, bandit
+lectus, i, m = lit
+libero, as, are, avi, atum + ABL = libérer, délivrer de qqch
+liberare cives magno metu = libérer les citoyens d’une grande crainte
+liberare ab + ABL = libérer, délivrer de qqn
+liberare oppidum ab hostibus = libérer la place forte des ennemis
+libido, inis, f = passion
+lucrum, i, n = gain, profit
+
+"M"
+manumitto, is, ere, -misi, -missum = affranchir (esclaves)
+medicus, i, m = médecin
+mensis, is, m = mois
+mereo, es, ere, ui, itum = mériter, gagner
+mereor, eris, eri, meritus sum = mériter, gagner
+militaris, e = militaire
+minae, arum f pl = menaces
+minor, aris, ari, atus sum (aliquid alicui) = menacer (qqn de qch) [minari servo mortem “menacer un esclave de la mort”]
+minari + ACI = menacer de + infinitif [minatur se abire]
+munio, is, ire, munivi (munii), munitum = fortifier [castra], protéger
+munitio, onis, f = retranchement, fortification
+
+"N"
+niger, nigra, nigrum = noir, sombre
+nimius, a, um = trop grand, excessif
+noceo, es, ere, nocui, nocitum (+ DAT) = nuire à
+nuntio, as, are, avi, atum (+ ACI) = annoncer (que)
+
+"O"
+obses, obsidis, m = otage
+omen, inis, n = présage
+omnino = entièrement, absolument, en tout et pour tout
+oppugnatio, onis, f = attaque, siège (Belagerung)
+oppugno, as, are, avi, atum = attaquer, assiéger
+
+"P"
+paenitet, paenitere, paenituit (impersonnel) aliquem (ACC) alicujus (rei) (GEN) = 1. être mécontent de 2. avoir du regret, du repentir, regretter
+Me mei paenitet.  = Je suis mécontent de moi.
+Me paenitet consilii. = Je me repens de mon projet.
+Vos paenitet. = Vous regrettez.
+Te paenitet. = Tu regrettes.
+pario, is, ere, péperi, partum ≠ pareo, es, ere! ≠ parare! = 1. enfanter, faire naître 2. faire naître, engendrer [dolorem], acquérir [praedam]
+passus, us, m = pas (1,50 m)
+tria milia passuum = trois mille pas
+pecus, pécudis, f = bête, brebis, mouton
+pendo, is, ere, pependi, pensum ≠ pendeo, es, ere, pependi, / (être suspendu) = 1. peser 2. payer
+perpetuus, a, um = ininterrompu, éternel
+perterreo, es, ere, ui, itum = épouvanter, terrifier
+piscis, is, m = poisson
+pius, a, um = pieux
+pons, pontis, m = pont
+porta, ae, f = porte
+praeceptum, i, n = 1. prescription, recommandation 2. précepte, leçon
+praemium, ii, n = récompense, avantage
+prope (adv.)  = près [prope habitat]
+prope + acc.  = près de [prope oppidum]
+propero, as, are, avi, atum = se hâter
+propterea  = pour cette raison
+propterea… quod = parce que
+
+"R"
+reperio, is, ire, rep(p)eri, repertum = trouver (après recherche)
+repeto, is, ere, repetivi, repetitum = 1. se diriger de nouveau vers, regagner [urbem] 2. réclamer, recouvrer [pecuniam debitam]
+resisto, is, ere, restiti, / = s’arrêter
+resistere + DAT = résister à qqn
+reus, i, m ≠ res! = accusé, prévenu
+rideo, es, ere, risi, risum = 1. (intr.) rire 2. (tr.) se moquer de , se rire de
+rudis, e = 1. brut, non dégrossi, non travaillé 2. inculte, ignorant
+
+"S"
+sacrum , i, n = 1. objet sacré 2. sacrifice, cérémonie religieuse, culte
+saepio, is, ire, saepsi, saeptum = enclore, entourer
+sapientia, ae, f = sagesse
+sepelio, is, ire, sepeli(v)i, sepultum  = ensevelir, enterrer
+sidus, sideris, n = constellation, étoile
+simulo, as, are, avi, atum = simuler, feindre
+somnium, ii, n ≠ somnus, i, m (sommeil) = songe, rêve
+studeo, es, ere, ui, / + DAT = s’appliquer à [agriculturae], s’attacher à, rechercher [gloriae]
+subeo, is, ire, subii, subitum = 1. aller sous 2. s’approcher d’en bas [ad montes] 3. affronter [periculum] 4. subir [injuriam]
+surgo, is, ere, surrexi, surrectum = se lever, se mettre debout, se dresser
+
+"T"
+tego, is, ere, texi, tectum = couvrir
+tegere ab +ABL = protéger contre [cives a magno periculo]
+tellus, uris, f (poétique) = terre
+tempto (tento), as, are, avi, atum = 1. tenter, essayer 2. mettre à l’épreuve [fidem]
+ter (semel, bis, ter, quater : Précis § 203) = trois fois
+timor, oris, m = crainte
+traduco, is, ere, traduxi, traductum (+ double acc. ou trans + ACC) = faire passer (au-delà de)
+copias flumen traducere, copias trans flumen traducere = faire passer les troupes au-delà du fleuve
+trans+ ACC = au-delà de [trans Rhenum, trans montes]
+turba, ae, f = foule (désordonnée)
+
+"V"
+venenum, i, n = poison, breuvage magique
+verecundia, ae, f = respect
+vicus, i, m  = 1. village 2. quartier (d’une ville)
+vigilia, ae, f = veille (Nachtwache)
+vinculum, i, n = lien, chaîne
+in vincula conjicere = jeter dans les fers, en prison
+vito, as, are, avi, atum = éviter
+voluntas, atis, f ≠ voluptas = volonté
+votum, i, n = vœu
+vulgus, i, n (acc. sg.: vulgus) (Précis § 19) = foule
